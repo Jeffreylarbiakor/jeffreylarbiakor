@@ -7,7 +7,7 @@ I'm a Data Scientist who is passionate about the role of Data Science in generat
 ## Find me around the web 🌎: <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
 - Playing Chess Online on <a href="https://play.chessbase.com">ChessBase</a> ✍🏾📝
 - Analyzing FPL Data and Sharing FPL Team updates on <a href="https://twitter.com"> Twitter</a> ⚽
-- Sharing Data Science updates on <a href="https://www.linkedin.com/in/jeffrey-larbi-akor/"> LinkedIn</a> 💼
+- Sharing Data Science articles and blog posts on <a href="https://www.linkedin.com/in/jeffrey-larbi-akor/"> LinkedIn</a> 💼
 
 <!--
 **Jeffreylarbiakor/jeffreylarbiakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
