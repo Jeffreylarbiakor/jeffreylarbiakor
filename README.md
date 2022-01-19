@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Jeffrey 👋🏾 👩🏾‍💻
+
+<img src="https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg">
+I'm a Data Scientist who is passionate about the role of Data Science in generating insights from data, creating technology to make life easier, and building a TechED team within my local community. Some technologies I enjoy working with include Microsoft Azure CloudOps & DevOps, PowerBI, Tableau, Python, Jupyter Notebooks, Wolfram Alpha, ReactJS, Jamstack (JavaScript, APIs + Markup) and PostgreSQL. In 2020, I was officially recognized as a Microsoft Azure Data Scientist Associate and was selected to be a GIZ Digital Skills Mentor based on my involvement in the Azubi Africa tech community.  My interest in the Data Science and Machine Learning ecosystem led me to launch JayLabs TechED, a community to train Data Analysts and Scientists.
+
+
+## Find me around the web 🌎: <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
+- Playing Chess Online on <a href="https://play.chessbase.com">ChessBase</a> ✍🏾📝
+- Analyzing FPL Data and Sharing FPL Team updates on <a href="https://twitter.com"> Twitter</a> ⚽
+- Sharing updates on <a href="https://www.linkedin.com/in/jeffrey-larbi-akor/"> LinkedIn</a> 💼
 
 <!--
 **Jeffreylarbiakor/jeffreylarbiakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
