@@ -136,10 +136,10 @@ End-to-end credit scoring model on 307,511 loan applications. LightGBM tuned via
 ## 🎓 Credentials
 
 - **Microsoft Certified: Azure Data Scientist Associate** — valid through Nov 2026
-- **Microsoft Certified: Azure Fundamentals**
-- **AWS Cloud Practitioner** · AWS re/Start Graduate (2022)
-- **Data Science & Analytics** — Azubi Africa Graduate (2020)
 - **AI & Machine Learning** — Lancaster University Ghana (2023)
+- **AWS Cloud Practitioner** · AWS re/Start Graduate (2022)
+- **Microsoft Certified: Azure Fundamentals (2020)**
+- **Data Science & Analytics** — Azubi Africa Graduate (2020)
 - **Published researcher** — *Malaria Research and Treatment* (Hindawi, 2019). [DOI: 10.1155/2019/6976298](https://doi.org/10.1155/2019/6976298)
 - **BSc Biological Sciences** — University of Ghana (2018)
 
