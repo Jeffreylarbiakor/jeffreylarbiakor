@@ -33,7 +33,7 @@ Changes from v2:
 
 ## About me
 
-I lead data quality and competitive intelligence at [**Hubtel**](https://hubtel.com), a fintech and quick-commerce platform serving **12M+ customers and 8,000+ merchants** in Ghana. Four promotions in under three years, from QA Engineer to Manager.
+I lead competitor intelligence at [**Hubtel**](https://hubtel.com), a fintech and quick-commerce platform serving **12M+ customers and 8,000+ merchants** in Ghana. Four promotions in under three years, from QA Engineer to Manager.
 
 Alongside Hubtel I take consulting work in applied ML, mentor data scientists across EMEA with Enki, and build portfolio projects in credit analytics and applied machine learning.
 
