@@ -118,7 +118,6 @@ End-to-end credit scoring model on 307,511 loan applications. LightGBM tuned via
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e"/>
 </p>
 
 ### Methods & techniques
