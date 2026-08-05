@@ -18,7 +18,7 @@ Changes from v2:
   <a href="https://www.linkedin.com/in/jeffrey-larbiakor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jeffreylarbiakor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Accra,%20Ghana-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="Open to Opportunities"/>
+  
 </p>
 
 <!-- ===== TYPING HEADER ===================================================== -->
